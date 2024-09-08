@@ -1,5 +1,5 @@
 {
-  "name": "HASSAN-MD❤️",
+  "name": "PRINXE-MD",
   "version": "3.0.1",
   "description": "Multi Device WhatsApp user bot",
   "main": "index.js",
@@ -23,7 +23,7 @@
     
 "homepage": "https://github.com/PRINCE-GDS/PRINXE-MD",
 "author": {
-"name": "MR-HASSAN" },
+"name": "MR-DS" },
     
 "repository": {
 "type": "git",
@@ -47,7 +47,7 @@
 "acrcloud": "^1.4.0",
 "api-dylux": "latest",
 "aptoide-scraper":"*",
-"awesome-phonenumber": "^923177112183",
+"awesome-phonenumber": "^2.68.0",
 "axios": "^1.4.0",
 "mathjs": "^11.3.0",
 "buffer":"*",
